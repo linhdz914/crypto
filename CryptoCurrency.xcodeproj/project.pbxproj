@@ -236,6 +236,20 @@
 		E2FA7AD22A0A52640081130D /* UdpSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA79FC2A0A52640081130D /* UdpSocket.swift */; };
 		E2FA7AD32A0A52640081130D /* NodeDiscovery.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA79FD2A0A52640081130D /* NodeDiscovery.swift */; };
 		E2FA7AD42A0A52640081130D /* NodeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA79FE2A0A52640081130D /* NodeManager.swift */; };
+		E2FA7B0F2A0B95880081130D /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FA7AFB2A0B95870081130D /* HomeViewController.xib */; };
+		E2FA7B102A0B95880081130D /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA7AFC2A0B95870081130D /* HomeViewController.swift */; };
+		E2FA7B112A0B95880081130D /* FearIndexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA7AFE2A0B95870081130D /* FearIndexViewController.swift */; };
+		E2FA7B122A0B95880081130D /* FearIndexViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FA7AFF2A0B95870081130D /* FearIndexViewController.xib */; };
+		E2FA7B132A0B95880081130D /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA7B012A0B95870081130D /* SignupViewController.swift */; };
+		E2FA7B142A0B95880081130D /* SignupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FA7B022A0B95870081130D /* SignupViewController.xib */; };
+		E2FA7B152A0B95880081130D /* PortfolioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA7B042A0B95870081130D /* PortfolioViewController.swift */; };
+		E2FA7B162A0B95880081130D /* PortfolioViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FA7B052A0B95870081130D /* PortfolioViewController.xib */; };
+		E2FA7B172A0B95880081130D /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA7B072A0B95870081130D /* WelcomeViewController.swift */; };
+		E2FA7B182A0B95880081130D /* WelcomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FA7B082A0B95870081130D /* WelcomeViewController.xib */; };
+		E2FA7B192A0B95880081130D /* SigninViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FA7B0A2A0B95870081130D /* SigninViewController.xib */; };
+		E2FA7B1A2A0B95880081130D /* SigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA7B0B2A0B95870081130D /* SigninViewController.swift */; };
+		E2FA7B1B2A0B95880081130D /* NewsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FA7B0D2A0B95870081130D /* NewsViewController.xib */; };
+		E2FA7B1C2A0B95880081130D /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FA7B0E2A0B95870081130D /* NewsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -473,6 +487,20 @@
 		E2FA79FC2A0A52640081130D /* UdpSocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UdpSocket.swift; sourceTree = "<group>"; };
 		E2FA79FD2A0A52640081130D /* NodeDiscovery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NodeDiscovery.swift; sourceTree = "<group>"; };
 		E2FA79FE2A0A52640081130D /* NodeManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NodeManager.swift; sourceTree = "<group>"; };
+		E2FA7AFB2A0B95870081130D /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		E2FA7AFC2A0B95870081130D /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		E2FA7AFE2A0B95870081130D /* FearIndexViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FearIndexViewController.swift; sourceTree = "<group>"; };
+		E2FA7AFF2A0B95870081130D /* FearIndexViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FearIndexViewController.xib; sourceTree = "<group>"; };
+		E2FA7B012A0B95870081130D /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		E2FA7B022A0B95870081130D /* SignupViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SignupViewController.xib; sourceTree = "<group>"; };
+		E2FA7B042A0B95870081130D /* PortfolioViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortfolioViewController.swift; sourceTree = "<group>"; };
+		E2FA7B052A0B95870081130D /* PortfolioViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PortfolioViewController.xib; sourceTree = "<group>"; };
+		E2FA7B072A0B95870081130D /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		E2FA7B082A0B95870081130D /* WelcomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WelcomeViewController.xib; sourceTree = "<group>"; };
+		E2FA7B0A2A0B95870081130D /* SigninViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SigninViewController.xib; sourceTree = "<group>"; };
+		E2FA7B0B2A0B95870081130D /* SigninViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SigninViewController.swift; sourceTree = "<group>"; };
+		E2FA7B0D2A0B95870081130D /* NewsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsViewController.xib; sourceTree = "<group>"; };
+		E2FA7B0E2A0B95870081130D /* NewsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1211,6 +1239,13 @@
 		E2FA7AD62A0B3A600081130D /* Module */ = {
 			isa = PBXGroup;
 			children = (
+				E2FA7AFD2A0B95870081130D /* FearIndex */,
+				E2FA7AFA2A0B95870081130D /* Home */,
+				E2FA7B0C2A0B95870081130D /* News */,
+				E2FA7B032A0B95870081130D /* Portfolio */,
+				E2FA7B092A0B95870081130D /* Sigin */,
+				E2FA7B002A0B95870081130D /* SignUp */,
+				E2FA7B062A0B95870081130D /* Welcome */,
 				E2FA7AD72A0B3A700081130D /* Welcome */,
 			);
 			path = Module;
@@ -1221,6 +1256,69 @@
 			children = (
 			);
 			path = Welcome;
+			sourceTree = "<group>";
+		};
+		E2FA7AFA2A0B95870081130D /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA7AFB2A0B95870081130D /* HomeViewController.xib */,
+				E2FA7AFC2A0B95870081130D /* HomeViewController.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		E2FA7AFD2A0B95870081130D /* FearIndex */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA7AFE2A0B95870081130D /* FearIndexViewController.swift */,
+				E2FA7AFF2A0B95870081130D /* FearIndexViewController.xib */,
+			);
+			path = FearIndex;
+			sourceTree = "<group>";
+		};
+		E2FA7B002A0B95870081130D /* SignUp */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA7B012A0B95870081130D /* SignupViewController.swift */,
+				E2FA7B022A0B95870081130D /* SignupViewController.xib */,
+			);
+			path = SignUp;
+			sourceTree = "<group>";
+		};
+		E2FA7B032A0B95870081130D /* Portfolio */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA7B042A0B95870081130D /* PortfolioViewController.swift */,
+				E2FA7B052A0B95870081130D /* PortfolioViewController.xib */,
+			);
+			path = Portfolio;
+			sourceTree = "<group>";
+		};
+		E2FA7B062A0B95870081130D /* Welcome */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA7B072A0B95870081130D /* WelcomeViewController.swift */,
+				E2FA7B082A0B95870081130D /* WelcomeViewController.xib */,
+			);
+			path = Welcome;
+			sourceTree = "<group>";
+		};
+		E2FA7B092A0B95870081130D /* Sigin */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA7B0A2A0B95870081130D /* SigninViewController.xib */,
+				E2FA7B0B2A0B95870081130D /* SigninViewController.swift */,
+			);
+			path = Sigin;
+			sourceTree = "<group>";
+		};
+		E2FA7B0C2A0B95870081130D /* News */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA7B0D2A0B95870081130D /* NewsViewController.xib */,
+				E2FA7B0E2A0B95870081130D /* NewsViewController.swift */,
+			);
+			path = News;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1282,9 +1380,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2FA7B192A0B95880081130D /* SigninViewController.xib in Resources */,
+				E2FA7B142A0B95880081130D /* SignupViewController.xib in Resources */,
 				E2FA78C02A0A34880081130D /* LaunchScreen.storyboard in Resources */,
 				E2FA78BD2A0A34880081130D /* Assets.xcassets in Resources */,
 				E2FA78BB2A0A34870081130D /* Main.storyboard in Resources */,
+				E2FA7B0F2A0B95880081130D /* HomeViewController.xib in Resources */,
+				E2FA7B182A0B95880081130D /* WelcomeViewController.xib in Resources */,
+				E2FA7B1B2A0B95880081130D /* NewsViewController.xib in Resources */,
+				E2FA7B162A0B95880081130D /* PortfolioViewController.xib in Resources */,
+				E2FA7B122A0B95880081130D /* FearIndexViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1343,6 +1448,7 @@
 				E2FA7AA32A0A52640081130D /* RandomHelper.swift in Sources */,
 				E2FA7A442A0A52640081130D /* RpcBlock.swift in Sources */,
 				E2FA7A7D2A0A52640081130D /* TransactionStatusMessage.swift in Sources */,
+				E2FA7B112A0B95880081130D /* FearIndexViewController.swift in Sources */,
 				E2FA7A012A0A52640081130D /* EthereumTransactionSyncer.swift in Sources */,
 				E2FA7A682A0A52640081130D /* BlockHeadersTask.swift in Sources */,
 				E2FA7A792A0A52640081130D /* EthMainNet.swift in Sources */,
@@ -1354,11 +1460,13 @@
 				E2FA78CE2A0A359B0081130D /* BubbleTabBarController.swift in Sources */,
 				E2FA7AA72A0A52640081130D /* IncubedRpcApiProvider.swift in Sources */,
 				E2FA7A352A0A52640081130D /* ApiRpcSyncer.swift in Sources */,
+				E2FA7B1A2A0B95880081130D /* SigninViewController.swift in Sources */,
 				E2FA7A4A2A0A52640081130D /* JsonRpc.swift in Sources */,
 				E2FA7A3F2A0A52640081130D /* GetBlockByNumberJsonRpc.swift in Sources */,
 				E2FA7AB22A0A52640081130D /* Extensions.swift in Sources */,
 				E2FA7A2B2A0A52640081130D /* EIP55.swift in Sources */,
 				E2FA7A242A0A52640081130D /* ABIType.swift in Sources */,
+				E2FA7B102A0B95880081130D /* HomeViewController.swift in Sources */,
 				E2FA7A3B2A0A52640081130D /* ApiProtocols.swift in Sources */,
 				E2FA7A032A0A52640081130D /* Eip20Balance.swift in Sources */,
 				E2FA7AD02A0A52640081130D /* HostHelper.swift in Sources */,
@@ -1369,8 +1477,10 @@
 				E2FA7A4D2A0A52640081130D /* GetBalanceJsonRpc.swift in Sources */,
 				E2FA7A0B2A0A52640081130D /* Address.swift in Sources */,
 				E2FA7A2D2A0A52640081130D /* ContractCreationDecoration.swift in Sources */,
+				E2FA7B172A0B95880081130D /* WelcomeViewController.swift in Sources */,
 				E2FA7A462A0A52640081130D /* DataJsonRpc.swift in Sources */,
 				E2FA7A3E2A0A52640081130D /* GetTransactionByHashJsonRpc.swift in Sources */,
+				E2FA7B1C2A0B95880081130D /* NewsViewController.swift in Sources */,
 				E2FA78E32A0A37450081130D /* RootTabbarCoordinator.swift in Sources */,
 				E2FA7A1F2A0A52640081130D /* ABIEncoder.swift in Sources */,
 				E2FA7A982A0A52640081130D /* BscMainNet.swift in Sources */,
@@ -1416,6 +1526,7 @@
 				E2FA7A642A0A52640081130D /* CapabilityHelper.swift in Sources */,
 				E2FA7A052A0A52640081130D /* TransactionSyncerState.swift in Sources */,
 				E2FA7A1A2A0A52640081130D /* TransactionLog.swift in Sources */,
+				E2FA7B152A0B95880081130D /* PortfolioViewController.swift in Sources */,
 				E2FA7A232A0A52640081130D /* GenericJSON.swift in Sources */,
 				E2FA7A9B2A0A52640081130D /* SpvExtensions.swift in Sources */,
 				E2FA7A112A0A52640081130D /* Chain.swift in Sources */,
@@ -1516,6 +1627,7 @@
 				E2FA7A1C2A0A52640081130D /* ProviderTransaction.swift in Sources */,
 				E2FA7A082A0A52640081130D /* TransactionData.swift in Sources */,
 				E2FA7A4F2A0A52640081130D /* GetTransactionCountJsonRpc.swift in Sources */,
+				E2FA7B132A0B95880081130D /* SignupViewController.swift in Sources */,
 				E2FA7A142A0A52640081130D /* ProviderEip1155Transaction.swift in Sources */,
 				E2FA7A202A0A52640081130D /* ABIValue.swift in Sources */,
 				E2FA7AA12A0A52640081130D /* BlockHeader.swift in Sources */,
